@@ -1,0 +1,6 @@
+{
+  "name": "Lofi Town",
+  "description": "A cozy idle city builder with relaxing lofi beats, pixel art aesthetic, and slow-flowing time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
